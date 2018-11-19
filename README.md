@@ -1,6 +1,8 @@
 ## What is this?
 I'm trying to reproduce [this](https://github.com/ezolenko/rollup-plugin-typescript2/issues/32#issuecomment-438562119).
 
+![screen cast](./peek.gif)
+
 ## How to reproduce
 ```bash
 npm install
